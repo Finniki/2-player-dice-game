@@ -232,6 +232,7 @@ main {
   }
   .btn--new {
     top: 0.1%;
+    right: 0%;
   }
   .btn--roll {
     top: 48%;
@@ -239,7 +240,7 @@ main {
   }
   .btn--hold {
     top: 48%;
-    left: 63%;
+    left: 60%;
   }
   .btn:active {
     transform: translate(0%);
