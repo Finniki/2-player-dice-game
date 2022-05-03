@@ -232,14 +232,14 @@ main {
   }
   .btn--new {
     top: 0.1%;
-    right: 0%;
+    right: 2%;
   }
   .btn--roll {
     top: 48%;
-    left: 0%;
+    left: 50%;
   }
   .btn--hold {
-    top: 48%;
+    top: 55%;
     left: 60%;
   }
   .btn:active {
