@@ -224,7 +224,7 @@ main {
   .dice {
     transform: scale(0.5);
     top: 43%;
-    left: 40%;
+    left: 0%;
   }
   .btn {
     transform: scale(0.7);
