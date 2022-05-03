@@ -223,7 +223,7 @@ main {
   }
   .dice {
     transform: scale(0.5);
-    top: 45%;
+    top: 42%;
     left: 30px;
   }
   .btn {
@@ -235,7 +235,7 @@ main {
     left: 50%;
   }
   .btn--roll {
-    top: 45%;
+    top: 40%;
     left: 50%;
   }
   .btn--hold {
